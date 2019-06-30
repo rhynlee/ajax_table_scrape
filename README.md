@@ -1,2 +1,2 @@
 # scraping
-scoping difficulty of a freelance job
+Scoping difficulty of a freelance web scraping job
